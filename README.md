@@ -1,3 +1,3 @@
-# Python脚本
+# Python Scripts
 
-信息提取
+simple code
