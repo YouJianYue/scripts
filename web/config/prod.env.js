@@ -1,0 +1,7 @@
+'use strict'
+module.exports = {
+  NODE_ENV: "'production'",
+  BASE_API: "'http://127.0.0.1:8502/'",
+  WS_URL: "'ws://127.0.0.1:8502/ws'",
+  isDev: false
+}
